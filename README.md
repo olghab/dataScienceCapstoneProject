@@ -2,7 +2,6 @@
 ## Capstone Project: Create a Customer Segmentation Report for Arvato Financial Services
 ## Data Science Udacity Nanodegree Project
 
-
 ### Introduction:
 In this project, I will analyze demographics data for customers of a mail-order sales company in Germany, comparing it against demographics information for the general population. The aim of this project is to create a predictio model that predicts which individuals are most likely to convert into becoming customers for the Bertelsmann Arvato company.
 
@@ -20,7 +19,6 @@ Created model that predicts which individuals are most likely to respond to a ma
 
 5. Documentation
 Medium blog to document all of the steps from start to finish can be found here: 
-
 
 ### Instructions:
 Please run cells in jupyter-notebook "Arvato Project Workbook_own.ipynb" in order to see the results.
