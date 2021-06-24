@@ -18,7 +18,7 @@ Here, prediction model is going to be built. The output at the end should use th
 Created model that predicts which individuals are most likely to respond to a mailout campaign, is going to be tested in kaggle competition. This part prepares data to fit into kaggles competition format.
 
 5. Documentation
-Medium blog to document all of the steps from start to finish can be found here: 
+Medium blog to document all of the steps from start to finish can be found here: https://olga-haberny.medium.com/customer-segmentation-report-for-arvato-financial-services-727e9980ee10
 
 ### Instructions:
 Please run cells in jupyter-notebook "Arvato Project Workbook_own.ipynb" in order to see the results.
